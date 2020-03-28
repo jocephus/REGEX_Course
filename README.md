@@ -1,7 +1,6 @@
 # REGEX_Course
 Materials for the REGEX Course
 
-## Twitter API Keys (Optional)
 ### To get started, on an Ubuntu/Debian box execute:
 `sudo apt-get install git python3 python3-pip python3-venv`
 ### Next, clone this directory:
