@@ -1,5 +1,5 @@
 sys
-re
+re2
 os
 pandas
 python-twitter
