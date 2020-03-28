@@ -13,6 +13,7 @@ Materials for the REGEX Course
 
 
 ## Twitter API Keys (Optional)
+I have already executed the Twitter script in advance and provided the output in this Repository.
 >For Twitter, we want to use the search API. Although I have never used it, there may be value in using the Engagement API.
 
 ### Main Page
