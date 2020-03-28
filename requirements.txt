@@ -2,3 +2,4 @@ sys
 re
 os
 pandas
+python-twitter
