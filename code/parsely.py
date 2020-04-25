@@ -6,6 +6,8 @@ import pandas as pd
 
 
 PYTHONIOENCODING="UTF-8"
+
+
 pathh = sys.argv[1]
 phone1 = re.compile(r"\s(?P<phone>\(\d{3}\)\s\d{3}\-\d{4})")
 phone2 = re.compile(r"\s(?P<phone>\(\d{3}\)\s\d{7})")
@@ -31,6 +33,7 @@ f2 = re.sub('[\[\]\'\"\,]', '', str(f1))
 f3 = re.sub('[\s]', '\n', f2)
 filly.write(str(f3))
 filly.close()
+
 
 with open('files.txt', 'r') as fileNames:
 	for fileName in fileNames:
